@@ -33,7 +33,7 @@ In the Hack The Box machine **"Mirage"**, a NATS server is accessible at `nats-s
 
 ### 🎯 Objective
 
-Harvest NATS client credentials by deploying a fake server and luring the legitimate client to connect to us instead of the real `dc01.mirage.htb`.
+Harvest NATS client credentials by deploying a fake server and luring the legitimate client to connect to us instead of the real `nats-svc.mirage.htb`.
 
 ---
 
